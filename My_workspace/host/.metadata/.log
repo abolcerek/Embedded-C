@@ -1,0 +1,19 @@
+!SESSION 2026-10-05 13:39:36.598 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/aaronbolcerek/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/aaronbolcerek/.eclipse_keyring -data /Users/aaronbolcerek/Documents/Coding/Embedded-C/My_workspace/host
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-05 13:39:40.416
+!MESSAGE Log4j2 initialized with config file /Users/aaronbolcerek/Documents/Coding/Embedded-C/My_workspace/host/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-05 13:39:42.823
+!MESSAGE Started RMI Server, listening on port 41339
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2026-10-05 13:39:42.882
+!MESSAGE ProjectImporter: mdfind -name lsregister didn't returned anything
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-10-05 13:42:17.685
+!MESSAGE Indexed '000TestProject' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

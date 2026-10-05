@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy Project &apos;000TestProject&apos;" description="Copy Project &apos;000TestProject&apos;" destination="/Users/aaronbolcerek/Documents/Coding/Embedded-C/My_workspace/target" element="/000TestProject" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="001HelloWorld" stamp="1791230607021"/>
+</session>
